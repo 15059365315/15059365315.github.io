@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>司白画博客</title>
   
-  
+  <subtitle>所念皆星河，星河不可及</subtitle>
   <link href="https://hexo.0914.tk/atom.xml" rel="self"/>
   
   <link href="https://hexo.0914.tk/"/>
